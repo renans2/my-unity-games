@@ -3,12 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Paddle
+  - TopOrBottomBoundary
+  - LeftBoundary
+  - RightBoundary
+  - GameManager
+  - Ball
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Top or Bottom Boundary
   - Water
   - UI
   - 
